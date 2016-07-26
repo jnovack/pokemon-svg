@@ -44,6 +44,9 @@ make images
 #### Change the PNG export options
 
 Same options as [shakiba/svgexport](https://github.com/shakiba/svgexport).
+After you have built (`make build`) and started the container (`make docker`),
+you can customize the options for the PNGs if you want them at a different
+resolution.
 
 Use the `OPTS=options` argument to modify the PNGs prior to export.
 
