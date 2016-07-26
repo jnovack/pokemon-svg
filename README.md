@@ -61,8 +61,10 @@ make OPTS=:128 images
 
 # Credit
 
-Twitter: [@eevee](https://twitter.com/eevee) 
-Original Website: http://veekun.com/dex/media/pokemon/dream-world/
+* Twitter: [@eevee](https://twitter.com/eevee) 
+* Original Website: http://veekun.com/dex/media/pokemon/dream-world/
+* NodeJS Module: [shakiba/svgexport](https://github.com/shakiba/svgexport)
+* Dockerized PhantomJS: [fgrehm/docker-phantomjs2](https://github.com/fgrehm/docker-phantomjs2)
 
 # License
 The source icons are (c) Nintendo/Creatures Inc./GAME FREAK Inc./The Pokémon
